@@ -10,8 +10,8 @@ print(sys.version)
 print(sys.executable)
 
 
-name = input("you name? ")
-print(f"hey {name}")
+# name = input("you name? ")
+# print(f"hey {name}")
 
 img_urls = [
     "https://images.unsplash.com/photo-1516117172878-fd2c41f4a759",
